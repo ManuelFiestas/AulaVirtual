@@ -1,0 +1,1 @@
+INSERT INTO alum (ID, nombre, apellido) VALUES (3, 'joaquinnfhfnnn', 'fiestadfgdfgfdsssss');
